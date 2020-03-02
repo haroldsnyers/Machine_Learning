@@ -1,14 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3b21d148-486a-4e16-a5cd-4b499010b6ee" name="Default Changelist" comment="" />
+    <list default="true" id="3b21d148-486a-4e16-a5cd-4b499010b6ee" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mini-project/.idea/ML_PW_Week4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mini-project/SpotifyTop50.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="JupyterTrust" id="dda5de5a-aa86-4cb0-941b-70d32ff90171" />
   <component name="ProjectId" id="1WqUoKDzzV2DpTo5XMAQjPaLWbj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -16,8 +25,9 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../MicroCourses/Rainbow" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -48,6 +58,8 @@
       <option name="presentableId" value="Default" />
       <updated>1579876791389</updated>
       <workItem from="1579876799999" duration="4999000" />
+      <workItem from="1581085079898" duration="2405000" />
+      <workItem from="1581265779572" duration="79000" />
     </task>
     <servers />
   </component>
@@ -55,6 +67,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="773" y="296" key="FileChooserDialogImpl" timestamp="1581265813065">
+      <screen x="63" y="0" width="1857" height="1080" />
+    </state>
+    <state x="773" y="296" key="FileChooserDialogImpl/63.0.1857.1080@63.0.1857.1080" timestamp="1581265813065" />
     <state width="1807" height="295" key="GridCell.Tab.0.bottom" timestamp="1579877164784">
       <screen x="71" y="0" width="1849" height="1080" />
     </state>
